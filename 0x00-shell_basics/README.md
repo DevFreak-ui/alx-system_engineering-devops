@@ -1,12 +1,21 @@
 ## Scripts
 
-Below is a brief description of what each script file can accomplish
+Below is a brief description of what each script file can accomplish.
 
 
-* 0-current_working_directory
+
+###### 0-current_working_directory
 This script prints the absolute path of the current working 
 directory
 
-__Results__ `/root/alx-system_engineering-devops/0x00-shell_basics`
+:   __Results__ ` /root/alx-system_engineering-devops/0x00-shell_basics `
+
+
+
+###### 1-listit
+Displays the content of a directory
+
+:	__Results__ ` Application Docs Dropbox `
+
 
 
